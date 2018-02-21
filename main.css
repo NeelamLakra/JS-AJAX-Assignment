@@ -1,0 +1,22 @@
+.form-bg{
+    background-image: url("form.jpg");
+    /*background: cadetblue;*/
+}
+
+.row{
+    margin-top: 4%;!important;
+}
+
+h2{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#submit1{
+    background-color: brown;
+    color:black;
+}
+
+.error {
+    color: yellow;
+}
